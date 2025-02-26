@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\ConsoleApp1_Warehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8086EA91-4A68-4C37-8439-C86229091076}|ConsoleApp1_Warehouse\\ConsoleApp1_Warehouse.csproj|j:\\\u0440\u043F\u043E\\\u043C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\consoleapp1_warehouse\\consoleapp1_warehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8086EA91-4A68-4C37-8439-C86229091076}|ConsoleApp1_Warehouse\\ConsoleApp1_Warehouse.csproj|solutionrelative:consoleapp1_warehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Warehouse/True/SqlTable/dbo.Warehouse.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Warehouse.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Warehouse/True/SqlTable/dbo.Warehouse.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Warehouse/True/SqlTable/dbo.Warehouse.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-25T16:40:04.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\ConsoleApp1_Warehouse\\ConsoleApp1_Warehouse\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1_Warehouse\\Program.cs",
+              "ToolTip": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\ConsoleApp1_Warehouse\\ConsoleApp1_Warehouse\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1_Warehouse\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:14:15.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
