@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Connection
+    class Connection      //Класс для соединения
     {
         static void Main(string[] args)
         {

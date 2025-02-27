@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppIdentification
+namespace ConsoleAppIdentification  //Для Идентификации
 {
-    public class AuthenticationManager : Connection
+    public class Identification : Connection
     {
-        public User AuthenticateUser(string login, string password)
+        public User IdentificationUser(string login, string password)
         {
             using (var connection = new SqlConnection(_connectionString))
             {
@@ -29,7 +29,7 @@ namespace ConsoleAppIdentification
                             {
                                 UserID = (int)read["UserID"],
                                 Login = read["Login"].ToString(),
-                                Role = read["Role"].ToString()
+                                Part = read["Part"].ToString()
                             };
                         }
                     }

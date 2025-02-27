@@ -22,19 +22,7 @@ namespace ConsoleAppЭкзамен
         {
 
 
-            /* public class Music 
-         {
-             string NameAlbum { get; set; } = "";
-             string NameGroup { get; set; } = "";
-             string Publisher { get; set; } = "";
-             int AmountOfTrack { get; set; }
-             string Genre { get; set; } = "";
-             int Year { get; set; }
-             int CostPrice { get; set; }
-             int Price { get; set; }
-
-
-         }*/
+          
         }
     }
 }
