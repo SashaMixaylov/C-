@@ -109,7 +109,7 @@ namespace Control
             {
                 connection.Open();
 
-                //string sql = @"
+               string sql = @"
                 SELECT Genre, COUNT(*) as Count
                 FROM Records r
                 JOIN OrderItems oi ON r.RecordID = oi.RecordID
@@ -152,9 +152,9 @@ namespace Control
 
     public enum RecordSearchType
     {
-        ByArtist,
-        ByGenre,
-        ByName
+        Artist,
+        Genre,
+        Name
     }
 }
 

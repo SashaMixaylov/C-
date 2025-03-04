@@ -15,7 +15,7 @@ namespace ConsoleApp1
 
             try
             {
-                conn = new SqlConnection("");
+                conn = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=StoreMusic;Integrated Security=True;");
                 Console.WriteLine("Установка соединения с базой данных ");
                 conn.Open();
                 
