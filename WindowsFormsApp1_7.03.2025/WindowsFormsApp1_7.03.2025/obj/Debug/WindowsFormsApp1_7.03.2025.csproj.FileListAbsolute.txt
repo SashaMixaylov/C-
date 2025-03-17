@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\bin\Debug\WindowsFormsApp1_7.03.2025.exe.config
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\bin\Debug\WindowsFormsApp1_7.03.2025.exe
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\bin\Debug\WindowsFormsApp1_7.03.2025.pdb
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\obj\Debug\WindowsFormsApp1_7.03.2025.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\obj\Debug\WindowsFormsApp1_7.03.2025.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\obj\Debug\WindowsFormsApp1_7._03._2025.Form1.resources
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\obj\Debug\WindowsFormsApp1_7._03._2025.Properties.Resources.resources
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\obj\Debug\WindowsFormsApp1_7.03.2025.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\obj\Debug\WindowsFormsApp1_7.03.2025.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\obj\Debug\WindowsFormsApp1_7.03.2025.exe
+C:\Users\user\Documents\Sasha\Новая папка\WindowsFormsApp1_7.03.2025\WindowsFormsApp1_7.03.2025\obj\Debug\WindowsFormsApp1_7.03.2025.pdb
