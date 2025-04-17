@@ -1,0 +1,72 @@
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.exe
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.deps.json
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.runtimeconfig.json
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfo.cs
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\refint\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.genruntimeconfig.cache
+C:\Users\user\Documents\Sasha\Новая папка\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ref\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfo.cs
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\refint\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.exe
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.deps.json
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.runtimeconfig.json
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.genruntimeconfig.cache
+C:\Users\user\Documents\Sasha\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ref\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.exe
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.deps.json
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.runtimeconfig.json
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfo.cs
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\refint\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.genruntimeconfig.cache
+C:\Users\user\Documents\Sasha\Новая папка\27.03.2025\17.03.2025\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ref\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.exe
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.deps.json
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.runtimeconfig.json
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfo.cs
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\refint\ConsoleApp3_17.03.2025.dll
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.genruntimeconfig.cache
+C:\Users\user\Documents\Sasha\Новая папка\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ref\ConsoleApp3_17.03.2025.dll
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.exe
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.deps.json
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.runtimeconfig.json
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\bin\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.GeneratedMSBuildEditorConfig.editorconfig
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfoInputs.cache
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.AssemblyInfo.cs
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.csproj.CoreCompileInputs.cache
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.dll
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\refint\ConsoleApp3_17.03.2025.dll
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.pdb
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ConsoleApp3_17.03.2025.genruntimeconfig.cache
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Server_Client\ConsoleApp3_17.03.2025\ConsoleApp3_17.03.2025\obj\Debug\net6.0\ref\ConsoleApp3_17.03.2025.dll
