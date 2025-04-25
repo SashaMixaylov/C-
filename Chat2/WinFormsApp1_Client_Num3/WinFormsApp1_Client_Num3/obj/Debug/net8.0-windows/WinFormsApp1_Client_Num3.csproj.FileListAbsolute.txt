@@ -1,0 +1,76 @@
+C:\Users\User\Documents\Sasha\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form1.resources
+C:\Users\User\Documents\Sasha\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form2.resources
+C:\Users\User\Documents\Sasha\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Properties.Resources.resources
+C:\Users\User\Documents\Sasha\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sasha\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Sasha\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Sasha\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfo.cs
+C:\Users\User\Documents\Sasha\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.CoreCompileInputs.cache
+J:\РПО\Новая папка (3)\2025\18.04.2025\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form1.resources
+J:\РПО\Новая папка (3)\2025\18.04.2025\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form2.resources
+J:\РПО\Новая папка (3)\2025\18.04.2025\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.GroupNameForm.resources
+J:\РПО\Новая папка (3)\2025\18.04.2025\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Properties.Resources.resources
+J:\РПО\Новая папка (3)\2025\18.04.2025\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.GenerateResource.cache
+J:\РПО\Новая папка (3)\2025\18.04.2025\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.GeneratedMSBuildEditorConfig.editorconfig
+J:\РПО\Новая папка (3)\2025\18.04.2025\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfoInputs.cache
+J:\РПО\Новая папка (3)\2025\18.04.2025\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfo.cs
+J:\РПО\Новая папка (3)\2025\18.04.2025\Новая папка\Экзамен 3\Chat\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.exe
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.deps.json
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.runtimeconfig.json
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.dll
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.pdb
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form1.resources
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form2.resources
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.GroupNameForm.resources
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Properties.Resources.resources
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfo.cs
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.dll
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\refint\WinFormsApp1_Client_Num3.dll
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.pdb
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.genruntimeconfig.cache
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\ref\WinFormsApp1_Client_Num3.dll
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.exe
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.deps.json
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.runtimeconfig.json
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.dll
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.pdb
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form1.resources
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form2.resources
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.GroupNameForm.resources
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Properties.Resources.resources
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.GenerateResource.cache
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.GeneratedMSBuildEditorConfig.editorconfig
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfoInputs.cache
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfo.cs
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.CoreCompileInputs.cache
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.dll
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\refint\WinFormsApp1_Client_Num3.dll
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.pdb
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.genruntimeconfig.cache
+J:\РПО\Новая папка (3)\2025\21.04.2025\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\ref\WinFormsApp1_Client_Num3.dll
+C:\Users\user\Documents\Sasha\Новая папка\Экзамен 3\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.ContactInfo.resources
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.exe
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.deps.json
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.runtimeconfig.json
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.dll
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\bin\Debug\net8.0-windows\WinFormsApp1_Client_Num3.pdb
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.ContactInfo.resources
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form1.resources
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Form2.resources
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.GroupNameForm.resources
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.Properties.Resources.resources
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.GenerateResource.cache
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.GeneratedMSBuildEditorConfig.editorconfig
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfoInputs.cache
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.AssemblyInfo.cs
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.csproj.CoreCompileInputs.cache
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.dll
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\refint\WinFormsApp1_Client_Num3.dll
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.pdb
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\WinFormsApp1_Client_Num3.genruntimeconfig.cache
+J:\РПО\Задачи экзамен\2025\Экзамен Чат\Chat2\WinFormsApp1_Client_Num3\WinFormsApp1_Client_Num3\obj\Debug\net8.0-windows\ref\WinFormsApp1_Client_Num3.dll
