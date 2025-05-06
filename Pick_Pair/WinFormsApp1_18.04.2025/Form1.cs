@@ -12,6 +12,7 @@ namespace WinFormsApp1_18._04._2025
         private int secondChoice = -1;
         private bool isProcessing = false;
         private ResourceManager resourceManager;
+        private Timer closeTimer;
         public Form1()
         {
             InitializeComponent();
@@ -19,6 +20,7 @@ namespace WinFormsApp1_18._04._2025
             resourceManager = new ResourceManager(typeof(Resource1));
             pictureBoxes = new PictureBox[12];
             cardValues = new int[12];
+            closeTimer = new Timer(CloseCardsCallback);
 
             int[] values = { 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6 };
             Random rand = new Random();
@@ -43,8 +45,9 @@ namespace WinFormsApp1_18._04._2025
                 pictureBoxes[i].Click += pictureBox1_Click;
                 Controls.Add(pictureBoxes[i]);
             }
-
+           
             MenuStrip menuStrip = new MenuStrip();
+
             ToolStripMenuItem gameMenu = new ToolStripMenuItem("Игра");
 
             ToolStripMenuItem newGameItem = new ToolStripMenuItem("Новая игра");
@@ -56,6 +59,9 @@ namespace WinFormsApp1_18._04._2025
             gameMenu.DropDownItems.AddRange(new ToolStripMenuItem[] { newGameItem, exitItem });
             menuStrip.Items.Add(gameMenu);
             Controls.Add(menuStrip);
+
+
+            
         }
 
 
@@ -115,8 +121,8 @@ namespace WinFormsApp1_18._04._2025
                     else
                     {
                         // Карточки не совпали - закрываем их через секунду
-
-                        timer1.Interval = 1000;
+                        closeTimer.Change(1000, Timeout.Infinite);
+                        /*timer1.Interval = 1000;
                         timer1.Tick += (tSender, args) =>
                         {
                             if (firstChoice >= 0 && firstChoice < pictureBoxes.Length)
@@ -129,12 +135,30 @@ namespace WinFormsApp1_18._04._2025
                             secondChoice = -1;
                             isProcessing = false;
                         };
-                        timer1.Start();
+                        timer1.Start()*/
                     }
                 }
             }
         }
 
+        private void CloseCardsCallback(object state)
+        {
+            if (closeTimer != null)
+            {
+                closeTimer.Change(Timeout.Infinite, Timeout.Infinite);
+            }
+
+            if (firstChoice >= 0 && firstChoice < pictureBoxes.Length &&
+                secondChoice >= 0 && secondChoice < pictureBoxes.Length)
+            {
+                pictureBoxes[firstChoice].Image = null;
+                pictureBoxes[secondChoice].Image = null;
+            }
+
+            firstChoice = -1;
+            secondChoice = -1;
+            isProcessing = false;
+        }
         private void NewGameToolStripMenuItem_Click(object sender, EventArgs e)   //Новая игра
         {
             foreach (PictureBox pb in pictureBoxes)
@@ -164,6 +188,8 @@ namespace WinFormsApp1_18._04._2025
             Array.Copy(source, index + 1, dest, index, source.Length - index - 1);
             return dest;
         }
+
+
     }
 
 }
