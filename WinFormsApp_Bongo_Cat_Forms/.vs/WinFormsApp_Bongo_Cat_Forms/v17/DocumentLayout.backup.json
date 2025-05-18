@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\winformsapp_bongo_cat_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|solutionrelative:winformsapp_bongo_cat_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|j:\\\u0440\u043F\u043E\\\u043C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\c#\\winformsapp_bongo_cat_forms\\winformsapp_bongo_cat_forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|solutionrelative:winformsapp_bongo_cat_forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|j:\\\u0440\u043F\u043E\\\u043C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\c#\\winformsapp_bongo_cat_forms\\winformsapp_bongo_cat_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|solutionrelative:winformsapp_bongo_cat_forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|j:\\\u0440\u043F\u043E\\\u043C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\c#\\winformsapp_bongo_cat_forms\\winformsapp_bongo_cat_forms\\resource1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|solutionrelative:winformsapp_bongo_cat_forms\\resource1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|j:\\\u0440\u043F\u043E\\\u043C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\c#\\winformsapp_bongo_cat_forms\\winformsapp_bongo_cat_forms\\resource1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|solutionrelative:winformsapp_bongo_cat_forms\\resource1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|j:\\\u0440\u043F\u043E\\\u043C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\c#\\winformsapp_bongo_cat_forms\\winformsapp_bongo_cat_forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929B30EE-516F-4324-959D-2F5B6CBA84D1}|WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj|solutionrelative:winformsapp_bongo_cat_forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_Bongo_Cat_Forms\\Form1.Designer.cs",
+              "ToolTip": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp_Bongo_Cat_Forms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:25:46.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_Bongo_Cat_Forms\\Program.cs",
+              "ToolTip": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Program.cs",
+              "RelativeToolTip": "WinFormsApp_Bongo_Cat_Forms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:25:33.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource1.Designer.cs",
+              "DocumentMoniker": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Resource1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_Bongo_Cat_Forms\\Resource1.Designer.cs",
+              "ToolTip": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Resource1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp_Bongo_Cat_Forms\\Resource1.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:23:40.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Resource1.resx",
+              "RelativeDocumentMoniker": "WinFormsApp_Bongo_Cat_Forms\\Resource1.resx",
+              "ToolTip": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Resource1.resx",
+              "RelativeToolTip": "WinFormsApp_Bongo_Cat_Forms\\Resource1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-15T14:51:31.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_Bongo_Cat_Forms\\Form1.cs",
+              "ToolTip": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp_Bongo_Cat_Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:15:43.855Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_Bongo_Cat_Forms\\Form1.cs",
+              "ToolTip": "J:\\\u0420\u041F\u041E\\\u041C\u043E\u0438 \u0440\u0430\u0431\u043E\u0442\u044B\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp_Bongo_Cat_Forms\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:04:53.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

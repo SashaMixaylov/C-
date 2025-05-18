@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_Bongo_Cat_Forms", "WinFormsApp_Bongo_Cat_Forms\WinFormsApp_Bongo_Cat_Forms.csproj", "{929B30EE-516F-4324-959D-2F5B6CBA84D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929B30EE-516F-4324-959D-2F5B6CBA84D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929B30EE-516F-4324-959D-2F5B6CBA84D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929B30EE-516F-4324-959D-2F5B6CBA84D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929B30EE-516F-4324-959D-2F5B6CBA84D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {185474FD-D94A-48EA-97EE-51060E3D90F9}
+	EndGlobalSection
+EndGlobal

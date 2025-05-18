@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\РПО\\Мои работы\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj": {}
+  },
+  "projects": {
+    "J:\\РПО\\Мои работы\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\РПО\\Мои работы\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj",
+        "projectName": "WinFormsApp_Bongo_Cat_Forms",
+        "projectPath": "J:\\РПО\\Мои работы\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms.csproj",
+        "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
+        "outputPath": "J:\\РПО\\Мои работы\\2025\\C#\\WinFormsApp_Bongo_Cat_Forms\\WinFormsApp_Bongo_Cat_Forms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "EcoCore": {
+              "target": "Package",
+              "version": "[7.2.0.16641, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.Threading.Timer": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[5.6.99, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
